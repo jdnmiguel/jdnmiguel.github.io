@@ -50,7 +50,7 @@ params:
           imageHeight: 260
           imageTitle: Jérémy Do Nascimento Miguel
           buttons:
-            - name: Publised papers
+            - name: Published papers
               url: /papers/
             - name: Ongoing projects
               url: /working/
