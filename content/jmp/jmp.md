@@ -1,11 +1,10 @@
 ---
 title: "General equilibrium effects of social policy: evidence from the Ethiopian Productive Safety Net Program" 
-date: 2024-09-01
-lastmod: 2024-09-01
-
-description: "This paper uses theory and lab-in-the-field experiment to study conditions under which third party certification can be implemented." 
-summary: "This article investigates the dynamic  effects of cash and food transfers on local prices. I find that cash transfers lead to a 5\% price increase, price responses are negative and imprecisely estimated for food transfers 
+date: 2024-08-01
+lastmod: 2024-08-01
+summary: "This article investigates the dynamic  effects of cash and food transfers on local prices. I find that cash transfers lead to a 5% price increase, price responses are negative and imprecisely estimated for food transfers" 
 ---
+<div class="thinline"></div>
 
 
 ##### Abstract
