@@ -11,12 +11,15 @@ menu:
         - name: Papers
           url: /papers/
           weight: 1
+        - name: Job Market Paper
+          url: /jmp/
+          weight: 2
         - name: Ongoing work
           url: /working/
-          weight: 2
+          weight: 3
         - name: Teaching
           url: /courses/
-          weight: 3
+          weight: 4
     
 params:
     description: "This website hosts Jérémy Do Nascimento Miguel's research papers, course material, curriculum vitae, and contact information."
@@ -52,6 +55,8 @@ params:
           buttons:
             - name: Published papers
               url: /papers/
+            - name: Job Market Paper
+              url: /jmp/
             - name: Ongoing projects
               url: /working/
             - name: Teaching
