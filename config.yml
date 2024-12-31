@@ -47,7 +47,7 @@ params:
     profileMode:
           enabled: true
           title: Jérémy Do Nascimento Miguel
-          subtitle: " I am a PhD in Economics. I defended in October 2024, see my [dissertation](https://theses.hal.science/tel-04807008). My research focuses on agricultural transformation, local value-chain, and rural markets  in Sub-Saharan Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023, and at the University of Georgia in fall 2021."
+          subtitle: " I am a Post-doctoral researcher in Economics at the Bordeaux School of Economics and currently visiting NOVAfrica. I defended in October 2024, see my [dissertation](https://theses.hal.science/tel-04807008). My research focuses on agricultural transformation, local value-chain, and rural markets  in Sub-Saharan Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023, and at the University of Georgia in fall 2021."
           imageUrl: "/picture.JPG"
           imageWidth: 190
           imageHeight: 230
