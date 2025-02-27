@@ -52,8 +52,6 @@ params:
           buttons:
             - name: Published papers
               url: /papers/
-            - name: Job Market Paper
-              url: /jmp/
             - name: Ongoing projects
               url: /working/
             - name: Teaching
