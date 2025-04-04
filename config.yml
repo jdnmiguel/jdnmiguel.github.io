@@ -1,7 +1,7 @@
 baseURL: "https://jdnmiguel.github.io" 
 title: Jérémy Do Nascimento Miguel
 paginate: 10
-theme: PaperMod
+theme: cactus
 enableInlineShortcodes: true
 enableRobotsTXT: true
 taxonomies:
