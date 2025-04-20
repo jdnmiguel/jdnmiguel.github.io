@@ -15,13 +15,12 @@ highlight_name: true
 # Role/position/tagline
 role: Post-doctoral researcher
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: University of Bordeaux - BSE
     url: https://www.bse.u-bordeaux.fr/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:jeremy.dnmiguel@gmail.com'
@@ -30,11 +29,9 @@ profiles:
     url: https://bsky.app/profile/jdnmiguel.bsky.social
   - icon: brands/github
     url: https://github.com/jdnmiguel
-   - icon: academicons/orcid
+  - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6275-388X
-
 ---
-
 
 ## Welcome to my academic website
  
