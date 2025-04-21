@@ -57,7 +57,7 @@ sections:
 
   - block: markdown
     content:
-      title: 'Teaching 📚'
+      title: 'Teaching'
       subtitle: 'See my CV for the list of all classes I taught'
       text: |-
         - 2024 [Econometric Software: introduction to Stata (Univ. of Bordeaux - Mageval 1)](https://github.com/jdnmiguel/stata_class)
@@ -65,5 +65,7 @@ sections:
 
     design:
       columns: '1'
+      css_class: small-font # Add this line to apply the custom CSS class
+
 ---
 
