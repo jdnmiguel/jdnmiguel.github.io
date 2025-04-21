@@ -59,9 +59,11 @@ sections:
     id: teaching
     content:
       title: 'Teaching'
-      subtitle: ''
-      text: |-
-        Teaching here
+      text: ""
+    filters:
+        folders:
+          - working_papers
+        exclude_featured: false
     design:
-      columns: '1'
+      view: citation
 ---
