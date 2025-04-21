@@ -62,7 +62,7 @@ sections:
       text: ""
     filters:
         folders:
-          - working_papers
+          - teaching
         exclude_featured: false
     design:
       view: citation
