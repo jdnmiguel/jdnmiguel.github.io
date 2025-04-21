@@ -15,6 +15,9 @@ abstract: This paper analyzes how market power by traders on local agricultural 
 
 
 links:
-url_pdf: competition_quality.pdf
+- name: Paper
+  url: https://www.journals.uchicago.edu/doi/abs/10.1086/721024
+- name: Ungated
+  url_pdf: https://www.atai-research.org/wp-content/uploads/2025/03/competition_quality-1.pdf
 
 ---
