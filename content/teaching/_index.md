@@ -1,23 +1,12 @@
 ---
 title: Teaching
-summary: My courses
-type: landing
+cms_exclude: true
 
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
+# View.
+view: citation
 
-sections:
-  - block: collection
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+# Optional header image (relative to `static/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
