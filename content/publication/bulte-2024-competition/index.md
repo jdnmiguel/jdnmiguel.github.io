@@ -3,7 +3,7 @@ title: 'Competition on Agricultural Markets and Quality of Smallholder Supply: T
   Role of Relational Contracting and Input Provision by Traders'
 authors:
 - Erwin Bulte
-- Jérémy Do Nascimento Miguel
+- admin
 - Banawe Plambou Anissa
 date: '2024-01-01'
 publishDate: '2025-04-20T21:04:15.476490Z'
