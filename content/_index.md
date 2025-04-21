@@ -56,12 +56,16 @@ sections:
       view: citation
 
   - block: markdown
+    id: teaching
     content:
       title: 'Teaching'
       subtitle: 'See my CV for the list of all classes I taught'
       text: |-
-        - 2024 [Econometric Software: introduction to Stata (Univ. of Bordeaux - Mageval 1)](https://github.com/jdnmiguel/stata_class)
-        - 2023 [Introduction to Machine Learning for economists (Univ. of Bordeaux - M2 APP)](https://github.com/jdnmiguel/Applied-ML)
+          - [Econometric Software: introduction to Stata (Univ. of Bordeaux - Mageval 1)](https://github.com/jdnmiguel/stata_class)
+          - Microeconomics (Univ. of Bordeaux - Undergraduate level)
+          - Causal Inference I (Univ. of Bordeaux - Master Development Economics)
+          - [Introduction to Machine Learning for economists (Univ. of Bordeaux - Master 2 Public Policy Evaluation)](https://github.com/jdnmiguel/Applied-ML)
+          - Economic issue in Africa (Graduate level - Univ. Montaigne Bordeaux)
     design:
       columns: '1'
 ---
