@@ -60,11 +60,8 @@ sections:
       title: 'Teaching'
       subtitle: 'See my CV for the list of all classes I taught'
       text: |-
-        <div style="font-size: 0.9em;"> <!-- Adjust the font size as needed -->
         - 2024 [Econometric Software: introduction to Stata (Univ. of Bordeaux - Mageval 1)](https://github.com/jdnmiguel/stata_class)
         - 2023 [Introduction to Machine Learning for economists (Univ. of Bordeaux - M2 APP)](https://github.com/jdnmiguel/Applied-ML)
-        </div>
-
     design:
       columns: '1'
 ---
