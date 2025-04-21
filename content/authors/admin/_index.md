@@ -25,8 +25,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jeremy.dnmiguel@gmail.com'
     label: E-mail Me
-  - icon: brands/bsky
-    url: https://bsky.app/profile/jdnmiguel.bsky.social
+  - icon: brands/bluesky-brands
+    url: https://bsky.app/profile/jeremydnm.bsky.social
   - icon: brands/github
     url: https://github.com/jdnmiguel
   - icon: academicons/orcid
