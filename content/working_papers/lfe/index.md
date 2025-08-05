@@ -17,6 +17,8 @@ abstract: >
 links:
   - name: Paper
     url: https://cgspace.cgiar.org/server/api/core/bitstreams/49132212-690f-4bf4-b907-6ac8818fb79b/content
+  - name: Media
+    url: https://www.youtube.com/shorts/9CBy1SAxiqw
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
