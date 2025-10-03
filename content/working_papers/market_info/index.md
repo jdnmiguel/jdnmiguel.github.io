@@ -1,8 +1,8 @@
 ---
 title: 'Market Information and R&D Investment under Ambiguity: A Framed Artefactual Experiment with Plant Breeding Professionals'
 authors:
-- Berber Kramer
 - admin
+- Berber Kramer
 - Carly Trachtman
 date: '2025-01-01'
 publishDate: '2025-04-20T21:04:15.485413Z'
