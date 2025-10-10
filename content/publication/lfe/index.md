@@ -16,7 +16,9 @@ abstract: >
 
 links:
   - name: Paper
-    url: https://cgspace.cgiar.org/server/api/core/bitstreams/49132212-690f-4bf4-b907-6ac8818fb79b/content
+    url: abbds_AJAE_preprint.pdf
+  - name: Online Appendix
+    url: ajae_appendix.pdf
   - name: Media
     url: https://www.youtube.com/shorts/9CBy1SAxiqw
   - name: Replication
