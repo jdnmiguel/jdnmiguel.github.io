@@ -18,6 +18,6 @@ links:
 - name: Paper
   url: https://www.journals.uchicago.edu/doi/abs/10.1086/721024
 - name: Ungated
-  url: competition_quality-1.pdf
+  url: competition_quality.pdf
 
 ---
