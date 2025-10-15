@@ -15,7 +15,8 @@ abstract: In many Sub-Saharan countries, farmers cannot meet the growing urban d
 links:
 - name: Paper
   url: https://doi.org/10.1016/j.jdeveco.2024.103336
-
+- name: Replication
+  url: returns_to_quality.zip
 
 # Featured image
 image:
