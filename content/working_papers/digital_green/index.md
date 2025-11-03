@@ -12,6 +12,10 @@ publication: '*Pilot phase (email me for more information)*'
 abstract: >
  Rapidly increasing mobile phone ownership and generative AI are rewriting the farm advisory playbook. We will demonstrate and assess effects of the agriculture domain-specific AI assistant, Farmer.Chat, developed by [Digital Green](https://digitalgreen.org/), which cost-effectively enables small-scale farmers to access contextualized farm advisory and triage questions.
 
+links:
+  - name: FID project
+    url: https://fundinnovation.dev/en/projects/leveraging-transformational-potential-ai-empower-small-scale-farmers--ethiopia
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
