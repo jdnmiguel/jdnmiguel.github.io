@@ -41,4 +41,4 @@ profiles:
 
 <span style="color:white">My research focuses on agricultural transformation, local value-chain, and rural markets in Sub-Saharan Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023.</span>
 
-<span style="color:white">Click [here](https://jdnmiguel.github.io/static/uploads/research_statement.pdf) for my research statement and [here](https://jdnmiguel.github.io/static/uploads/teaching_statement.pdf) for my teaching statement.</span>
+<span style="color:white">Click [here](https://jdnmiguel.github.io/uploads/research_statement.pdf) for my research statement and [here](https://jdnmiguel.github.io/uploads/teaching_statement.pdf) for my teaching statement.</span>
