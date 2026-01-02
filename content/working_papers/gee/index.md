@@ -2,7 +2,7 @@
 title: "The double edge sword of social transfers: evidence from Ethiopia"
 authors:
   - admin
-date: "2025-10-10"
+date: "2026-01-01"
 publishDate: "2025-04-20T21:04:15.476490Z"
 publication_types:
   - "article"
