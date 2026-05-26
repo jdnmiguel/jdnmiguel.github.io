@@ -1,5 +1,5 @@
 ---
-title: "The Effects of the Ethiopian' Agricultural Commercialization Cluster on farmers' livelihoods"
+title: "Market-Driven Value Chain Development: An Evaluation of Ethiopia's Agricultural Commercialization Cluster Program"
 authors:
 - Gashaw T. Abate
 - Jeffrey Bloem
