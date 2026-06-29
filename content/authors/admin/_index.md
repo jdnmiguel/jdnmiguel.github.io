@@ -35,9 +35,9 @@ profiles:
 
 ## Welcome to my academic website
  
-<span style="color:white">I am a Post-doctoral researcher in Economics at the Bordeaux School of Economics and currently based at the Center for Food Science and Nutrition at Addis Ababa University (Arat Kilo Campus). I defended in October 2024, see my [dissertation](https://theses.hal.science/tel-04807008). 
+<span style="color:white">I am a Post-doctoral researcher in Economics at the Bordeaux School of Economics. See my [dissertation](https://theses.hal.science/tel-04807008). 
 
-<span style="color:white">[My Job Market Paper](https://jdnmiguel.github.io/working_papers/gee/draft.pdf) investigates the general equilibrium effects of the largest social program transfers in Africa, the Ethiopia's Productive Safety Net Program. 
+<span style="color:white">In fall 2026, I will be joining the Namur School of Economics as an Assistant Professor in Economics.
 
 <span style="color:white">My research focuses on agricultural transformation, local value-chain, and rural markets in Sub-Saharan Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023.</span>
 
