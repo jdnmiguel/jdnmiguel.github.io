@@ -35,7 +35,7 @@ profiles:
 
 ## Welcome to my academic website
  
-<span style="color:white">I am a Post-doctoral researcher in Economics at the Bordeaux School of Economics. See my [dissertation](https://theses.hal.science/tel-04807008). 
+<span style="color:white">I am a Post-doctoral researcher in Economics at the Bordeaux School of Economics. 
 
 <span style="color:white">In fall 2026, I will be joining the Namur School of Economics as an Assistant Professor in Economics.
 
