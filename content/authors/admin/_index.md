@@ -13,12 +13,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Post-doctoral researcher
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: University of Bordeaux - BSE
-    url: https://www.bse.u-bordeaux.fr/
+  - name: Université de Namur - NSE
+    url: https://www.unamur.be/en/emcp/economy
 
 # Social network links
 profiles:
@@ -35,9 +35,8 @@ profiles:
 
 ## Welcome to my academic website
  
-<span style="color:white">I am a Post-doctoral researcher in Economics at the Bordeaux School of Economics. 
+<span style="color:white">I am an Assistant Professor in Economics at the Université de Namur. 
 
-<span style="color:white">In fall 2026, I will be joining the Namur School of Economics as an Assistant Professor in Economics.
 
 <span style="color:white">My research focuses on agricultural transformation, local value-chain, and rural markets in Sub-Saharan Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023.</span>
 
