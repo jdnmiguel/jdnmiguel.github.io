@@ -38,6 +38,6 @@ profiles:
 <span style="color:white">I am an Assistant Professor in Economics at the Université de Namur. 
 
 
-<span style="color:white">My research focuses on agricultural transformation, local value-chain, and rural markets in Sub-Saharan Africa. I was a Fulbright visiting scholar at UC - Berkeley in 2022-2023.</span>
+<span style="color:white">My research focuses on agricultural transformation, local value-chain, and rural markets in Sub-Saharan Africa. </span>
 
 <span style="color:white">Click [here](https://jdnmiguel.github.io/uploads/research_statement.pdf) for my research statement and [here](https://jdnmiguel.github.io/uploads/teaching_statement.pdf) for my teaching statement.</span>
