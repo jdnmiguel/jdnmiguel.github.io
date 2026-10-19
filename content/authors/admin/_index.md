@@ -23,7 +23,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:jeremy.dnmiguel@gmail.com'
+    url: 'mailto:jeremy.donascimento@unamur.be'
     label: E-mail Me
   - icon: custom/bluesky-brands
     url: https://bsky.app/profile/jeremydnm.bsky.social
