@@ -35,7 +35,7 @@ profiles:
 
 ## Welcome to my academic website
  
-<span style="color:white">I am an Assistant Professor in Economics at the Université de Namur. 
+<span style="color:white">After one year in Addis Ababa, I joined the University of Namur as an Assistant Professor in Economics in Fall 2026. 
 
 
 <span style="color:white">My research focuses on agricultural transformation, local value-chain, and rural markets in Sub-Saharan Africa. </span>
