@@ -42,17 +42,17 @@
   <div id="profile" class="flex justify-center items-center flex-col">
     {{ if $avatar }}
 
-    <div class="avatar-wrapper {{ if $img }}-mt-[130px]{{else}}mt-10{{end}}">
-      {{ $avatar_image := $avatar.Fill "600x600 Center" }}
-      <img class="avatar rounded-lg bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
-           width="200" height="200" style="width:250px;height:250px;object-fit:cover;">
+    <div class="avatar-wrapper" style="margin-top: {{ if $img }}-125px{{ else }}2.5rem{{ end }}; position: relative; z-index: 2;">
+      {{ $avatar_image := $avatar.Fill "750x750 Center" }}
+      <img class="avatar rounded-none bg-white dark:bg-white p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
+           width="250" height="250" style="width:250px;height:250px;object-fit:cover;border-radius:0;">
       {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
     </div>
     {{ end }}
 
     <div class="portrait-title dark:text-white">
 
-      <div class="text-3xl font-bold mb-2 mt-6">
+      <div class="text-3xl font-bold mb-2" style="margin-top: 1.5rem;">
         {{- if $person.name_pronunciation -}}
           <ruby>
             <rb>{{ $person_page.Title }}</rb>
