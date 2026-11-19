@@ -44,8 +44,8 @@
 
     <div class="avatar-wrapper {{ if $img }}-mt-[130px]{{else}}mt-10{{end}}">
       {{ $avatar_image := $avatar.Fill "600x600 Center" }}
-      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
-           width="250" height="250" style="width:250px;height:250px;object-fit:cover;">
+      <img class="avatar rounded-lg bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
+           width="200" height="200" style="width:250px;height:250px;object-fit:cover;">
       {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
     </div>
     {{ end }}
