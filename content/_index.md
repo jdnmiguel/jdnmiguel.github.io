@@ -11,19 +11,19 @@ design:
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: CV
         url: uploads/jdnm_cv.pdf
     design:
+      avatar:
+        size: xl
+        shape: circle
       css_class: dark
       background:
         color: black
         image:
-          # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
@@ -62,9 +62,8 @@ sections:
       subtitle: 'See my CV for the list of all classes I taught'
       text: |-
           - [Econonometrie (ECGEB352 - U. Namur)](https://github.com/jdnmiguel/econometric_ECGEB352)
-          - [Econometric Software: introduction to Stata (Univ. of Bordeaux - Mageval 1)](https://github.com/jdnmiguel/stata_class)          
+          - [Econometric Software: introduction to Stata (Univ. of Bordeaux - Mageval 1)](https://github.com/jdnmiguel/stata_class)
           - [Introduction to Machine Learning for economists (Univ. of Bordeaux and Addis Ababa University)](https://github.com/jdnmiguel/Applied-ML)
     design:
       columns: '1'
 ---
-
